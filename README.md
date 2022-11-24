@@ -1,1 +1,5 @@
-# Digit-Recognition-in-Deep-Learning
+# Digit-Recognition-DL
+
+
+uvicorn main:app --reload
+
